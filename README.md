@@ -31,4 +31,5 @@ fds
 
 [10. 입출력](Java%20Programming%20for%20COMEDU/10%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%20eaf0228197c448b08cc343c3785bea4c.md)
 
-### 개요
+### Effective Java
+자바를 조금 더 효율적으로 쓰고 싶다면 [여기](https://github.com/comeducmd/books/blob/main/java/Effective_Java_3%ED%8C%90.pdf)를 확인해주세요.
